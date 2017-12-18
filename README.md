@@ -1,2 +1,2 @@
-## Python3Notebook
-Python3Notebook
+## 爬虫之旅
+除了一些基础知识外，还有一些实践项目。
